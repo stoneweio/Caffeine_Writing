@@ -1,0 +1,10 @@
+product,participant,age_group,baseline_sys,peak_sys,peak_delta_sys,time_of_peak_min,peak_delta_pul
+Seoul Milk Coffee,P1,adolescent,120,145,25,15,11
+Seoul Milk Coffee,P2,adult,115,120,5,30,4
+Seoul Milk Coffee,P3,adult,118,102,-16,15,-4
+Hot Six,P1,adolescent,126,120,-6,15,3
+Hot Six,P2,adult,104,116,12,15,1
+Hot Six,P3,adult,114,120,6,45,-7
+Starbucks Caffe Latte,P1,adolescent,120,132,12,45,-8
+Starbucks Caffe Latte,P2,adult,119,139,20,45,-3
+Starbucks Caffe Latte,P3,adult,107,121,14,30,-1
